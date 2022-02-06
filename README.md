@@ -25,7 +25,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 
 | Puzzle | Langage |
 |:-|:-|
-| Power of Thor - Episode 1 | [Python] (https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Power%20of%20Thor%20-%20Episode%201.txt) |
+| Power of Thor - Episode 1 | [Python] (https://github.com/Nettoyjogg/streamcode/tree/main/Codingame/Entrainements/Python/Facile) |
 
 #### Puzzle - Moyen
 
