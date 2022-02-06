@@ -24,7 +24,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 #### Puzzle - Facile
 
 | Puzzle | Langage |
-|:-|:-|
+|:-Power of Thor - Episode 1|:-Python|
 
 #### Puzzle - Moyen
 
