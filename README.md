@@ -26,9 +26,9 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | Puzzle | Langage |
 |:-|:-|
 | The Descent | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/the%20descent.py) |
-| Temperatures | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/temperatures.py) |
+| Temperatures | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/temperatures.py) |
 | Power of Thor - Episode 1 | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Power%20of%20Thor%20-%20Episode%201.py) |
-| Horse Racing duals | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/horse%20racing%20duals.py) |
+| Horse Racing duals | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/horse%20racing%20duals.py) |
 | Unit Fraction | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Unit%20Fractions.py) |
 
 
