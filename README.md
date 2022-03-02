@@ -30,7 +30,8 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | Power of Thor - Episode 1 | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Power%20of%20Thor%20-%20Episode%201.py) |
 | Horse Racing duals | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/horse%20racing%20duals.py) |
 | Unit Fraction | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Unit%20Fractions.py) |
-| 1D Bush Fire | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/1D%20Bush%20Fire) |
+| 1D Bush Fire | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/1D%20Bush%20Fire.py) |
+| Benford's Law | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Benford's%20Law.py) |
 
 #### Puzzle - Moyen
 
