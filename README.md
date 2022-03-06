@@ -31,7 +31,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | Horse Racing duals | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/horse%20racing%20duals.py) |
 | Unit Fraction | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Unit%20Fractions.py) |
 | 1D Bush Fire | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/1D%20Bush%20Fire.py) |
-| Encryption/Decryption of Enigma Machine | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Encryption%20and%20Decryption.py%20of%20Enigma%20Machine) |
+| Encryption/Decryption of Enigma Machine | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Encryption%20and%20Decryption%20of%20Enigma%20Machine.py) |
 | Benford's Law | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Benford's%20Law.py) |
 
 
