@@ -42,7 +42,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | Puzzle | Langage |
 |:-|:-|
 | Wine From Kalbodia-ep1 | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Moyen/Wine%20from%20Kalbodia-ep1.py) |
-
+| Escaping the cat | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Moyen/Escaping%20the%20cat.py) |
 
 #### Puzzle - Difficile
 
