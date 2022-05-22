@@ -60,9 +60,9 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 
 ### Taille de code
 
-| Puzzle | Langage |
-|:-|:-|
-
+| Puzzle | Langage | Score |
+|:-|:-|:-|
+| Temperature | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Competition/Taille%20de%20code/Python/Temperatures.py) | 100 |
 
 ### Optimisation
 
