@@ -36,6 +36,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | 1D Bush Fire | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/1D%20Bush%20Fire.py) |
 | Encryption/Decryption of Enigma Machine | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Encryption%20and%20Decryption%20of%20Enigma%20Machine.py) |
 | Benford's Law | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Benford's%20Law.py) |
+| Unary | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Unary.py) |
 
 #### Puzzle - Moyen
 
