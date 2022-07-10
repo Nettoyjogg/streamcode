@@ -37,7 +37,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | Encryption/Decryption of Enigma Machine | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Encryption%20and%20Decryption%20of%20Enigma%20Machine.py) |
 | Benford's Law | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Benford's%20Law.py) |
 | Unary | [Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Unary.py) |
-| Rock Paper Scissors Lizard Spock |[Python]https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Rock%20Paper%20Scissors%20Lizard%20Spock.py|
+| Rock Paper Scissors Lizard Spock |[Python](https://github.com/Nettoyjogg/streamcode/blob/dev/Codingame/Entrainements/Python/Facile/Rock%20Paper%20Scissors%20Lizard%20Spock.py)|
 #### Puzzle - Moyen
 
 | Puzzle | Langage |
