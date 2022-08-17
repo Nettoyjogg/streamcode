@@ -25,6 +25,7 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 
 | Puzzle | Langage |
 |:-|:-|
+
 | Onboarding | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Onboarding.py) |
 | The Descent | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/the%20descent.py) |
 | Temperatures | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/temperatures.py) |
@@ -33,11 +34,13 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 | Power of Thor - Episode 1 | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Power%20of%20Thor%20-%20Episode%201.py) |
 | Horse Racing duals | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/horse%20racing%20duals.py) |
 | Unit Fraction | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Unit%20Fractions.py) |
+| Nature of triangles | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Nature%20of%20triangles.py) |
 | 1D Bush Fire | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/1D%20Bush%20Fire.py) |
 | Encryption/Decryption of Enigma Machine | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Encryption%20and%20Decryption%20of%20Enigma%20Machine.py) |
 | Benford's Law | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Benford's%20Law.py) |
 | Unary | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Unary.py) |
 | Rock Paper Scissors Lizard Spock |[Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Rock%20Paper%20Scissors%20Lizard%20Spock.py)|
+
 #### Puzzle - Moyen
 
 | Puzzle | Langage |
