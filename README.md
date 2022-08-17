@@ -25,7 +25,6 @@ Vous pouvez retrouver dans cette partie le code correspondant à divers exercice
 
 | Puzzle | Langage |
 |:-|:-|
-
 | Onboarding | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/Onboarding.py) |
 | The Descent | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/the%20descent.py) |
 | Temperatures | [Python](https://github.com/Nettoyjogg/streamcode/blob/main/Codingame/Entrainements/Python/Facile/temperatures.py) |
