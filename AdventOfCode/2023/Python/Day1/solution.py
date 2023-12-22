@@ -21,17 +21,27 @@ def first_digit(phrase:str):
 
 #Remplace des digits écrit littérallement par leur valeur numérique
 def replacedigit(phrase:str):
-    phrase=phrase.replace("one","1")
-    phrase=phrase.replace("two","2")
-    phrase=phrase.replace("three","3")
-    phrase=phrase.replace("four","4")
-    phrase=phrase.replace("five","5")
-    phrase=phrase.replace("six","6")
-    phrase=phrase.replace("seven","7")
-    phrase=phrase.replace("eight","8")
-    phrase=phrase.replace("nine","9")
+    un=phrase.find("one")
+    deux=phrase.find("two")
+    trois=phrase.find("three")
+    quatre=phrase.find("four")
+    cinq=phrase.find("five")
+    six=phrase.find("six")
+    sept=phrase.find("seven")
+    huit=phrase.find("eight")
+    neuf=phrase.find("nine")
+
+    tables=sorted([un,deux,trois,quatre,cinq,six,sept,huit,neuf])
+
+    if tables[-1]==-1:
+        return phrase
+    
+
+
     return phrase
 
+def replacefirstalpha(phrase:str):
+    return phrase
 tableau_calibration=[]
 '''
 #Part1
